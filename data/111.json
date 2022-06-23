@@ -1,0 +1,197 @@
+[
+    {
+      "type": "category",
+      "title": "Target User",
+      "description": "Target User",
+      "childrenDescription": "Target User:",
+      "entries": [
+        {
+          "type": "category-entry",
+          "title": "learner",
+          "description": "Learner",
+          "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/L.svg\" ></span>",
+          "bgc":"rgba(147, 181, 207, 0.3)"
+        },
+        {
+          "type": "category-entry",
+          "title": "instructor",
+          "description": "Instructor",
+          "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/I.svg\" ></span>",
+          "bgc":"rgba(147, 181, 207, 0.3)"
+        },
+        {
+          "type": "category-entry",
+          "title": "administrator",
+          "description": "Administrator",
+          "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/A.svg\" ></span>",
+          "bgc":"rgba(147, 181, 207, 0.3)"
+        }
+      ]
+    },
+    {
+        "type": "category",
+        "title": "Online Learning Tasks",
+        "description": "Online Learning Tasks",
+        "childrenDescription": "Online Learning Tasks:",
+        "entries": [
+          {
+            "type": "category-entry",
+            "title": "behaviour",
+            "description": "Behaviour Analysis",
+            "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/BA.svg\" ></span>",
+            "bgc":"rgba(188, 132, 168, 0.3)"
+          },
+          {
+            "type": "category-entry",
+            "title": "prediction",
+            "description": "Behaviour Prediction",
+            "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/BP.svg\" ></span>",
+            "bgc":"rgba(188, 132, 168, 0.3)"
+          },
+          {
+            "type": "category-entry",
+            "title": "exploration",
+            "description": "Learning Pattern Exploration",
+            "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/LPE.svg\" ></span>",
+            "bgc":"rgba(188, 132, 168, 0.3)"
+          },
+          {
+            "type": "category-entry",
+            "title": "assisted",
+            "description": "Assisted Learning",
+            "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/AL.svg\" ></span>",
+            "bgc":"rgba(188, 132, 168, 0.3)"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "title": "Data Type",
+        "description": "Data Type",
+        "childrenDescription": "Data Type:",
+        "entries": [
+          {
+            "type": "category-entry",
+            "title": "network",
+            "description": "Network",
+            "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/N.svg\" ></span>",
+            "bgc":"rgba(255, 153, 0, 0.3)"
+          },
+          {
+            "type": "category-entry",
+            "title": "high-dimensional",
+            "description": "High-dimensional",
+            "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/HD.svg\" ></span>",
+            "bgc":"rgba(255, 153, 0, 0.3)"
+          },
+          {
+            "type": "category-entry",
+            "title": "spatio-temporal",
+            "description": "Spatio-temporal",
+            "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/ST.svg\" ></span>",
+            "bgc":"rgba(255, 153, 0, 0.3)"
+          },
+          {
+            "type": "category-entry",
+            "title": "multimedia",
+            "description": "Multimedia",
+            "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/M.svg\" ></span>",
+            "bgc":"rgba(255, 153, 0, 0.3)"
+          },
+          {
+            "type": "category-entry",
+            "title": "text",
+            "description": "Text",
+            "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/T.svg\" ></span>",
+            "bgc":"rgba(255, 153, 0, 0.3)"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "title": "Visualization techniques",
+        "description": "Visualization techniques",
+        "childrenDescription": "Visualization techniques:",
+        "entries": [
+          {
+            "type": "category-entry",
+            "title": "network visualization",
+            "description": "Network Visualization",
+            "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/NV.svg\" ></span>",
+            "bgc":"rgba(241, 151, 144, 0.3)"
+          },
+          {
+            "type": "category-entry",
+            "title": "text visualization",
+            "description": "Text Visualization",
+            "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/TeV.svg\" ></span>",
+            "bgc":"rgba(241, 151, 144, 0.3)"
+          },
+          {
+            "type": "category-entry",
+            "title": "temporal visualization",
+            "description": "Temporal Visualization",
+            "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/TV.svg\" ></span>",
+            "bgc":"rgba(241, 151, 144, 0.3)"
+          },
+          {
+            "type": "category-entry",
+            "title": "geographic visualization",
+            "description": "Geographic Visualization",
+            "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/GeoV.svg\" ></span>",
+            "bgc":"rgba(241, 151, 144, 0.3)"
+          },
+          {
+            "type": "category-entry",
+            "title": "chart visualization",
+            "description": "Chart Visualization",
+            "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/CV.svg\" ></span>",
+            "bgc":"rgba(241, 151, 144, 0.3)"
+          },
+          {
+            "type": "category-entry",
+            "title": "glyph visualization",
+            "description": "Glyph Visualization",
+            "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/GV.svg\" ></span>",
+            "bgc":"rgba(241, 151, 144, 0.3)"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "title": "Interaction methods",
+        "description": "Interaction methods",
+        "childrenDescription": "Interaction methods:",
+        "entries": [
+          {
+            "type": "category-entry",
+            "title": "selection",
+            "description": "Selection&Exploration",
+            "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/S&E.svg\" ></span>",
+            "bgc":"rgba(102, 193, 140, 0.3)"
+          },
+          {
+            "type": "category-entry",
+            "title": "filtering",
+            "description": "Filtering&Navigation",
+            "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/F&N.svg\" ></span>",
+            "bgc":"rgba(102, 193, 140, 0.3)"
+          },
+          {
+            "type": "category-entry",
+            "title": "connection",
+            "description": "Connection&Saving",
+            "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/C&S.svg\" ></span>",
+            "bgc":"rgba(102, 193, 140, 0.3)"
+          },
+          {
+            "type": "category-entry",
+            "title": "encoding",
+            "description": "Encoding&Reconfiguration",
+            "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/E&R.svg\" ></span>",
+            "bgc":"rgba(102, 193, 140, 0.3)"
+          }
+        ]
+      }
+   
+  ]

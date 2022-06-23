@@ -1,0 +1,362 @@
+[
+  {
+    "type": "category",
+    "title": "Major Category",
+    "description": "Major Category",
+    "entries": [
+      {
+        "type": "category",
+        "title": "visual mapping",
+        "description": "VMS",
+        "childrenDescription": "Visual Mapping: ",
+        "entries": [
+          {
+            "type": "category-entry",
+            "title": "grid",
+            "description": "Grid & Rectangle Layout",
+            "content": "GRL"
+          },
+          {
+            "type": "category-entry",
+            "title": "hierarchical",
+            "description": "Hierarchical Structure Layout",
+            "content": "HSL"
+          },
+          {
+            "type": "category-entry",
+            "title": "geographic map layout",
+            "description": "Geographic Map Layout",
+            "content": "GML"
+          },
+          {
+            "type": "category-entry",
+            "title": "node-link",
+            "description": "Node-Link Graph Layout",
+            "content": "NLGL"
+          },
+          {
+            "type": "category-entry",
+            "title": "perception",
+            "description": "Perception & Color",
+            "content": "PC"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "title": "data enhancement",
+        "description": "DET",
+        "childrenDescription": "Data Enhancement & Transformation: ",
+        "entries": [
+          {
+            "type": "category-entry",
+            "title": "data summarization",
+            "description": "Data Summarization",
+            "content": "DS"
+          },
+          {
+            "type": "category-entry",
+            "title": "data transformation",
+            "description": "Data Transformation",
+            "content": "DT"
+          },
+          {
+            "type": "category-entry",
+            "title": "dimension reduction",
+            "description": "Dimension Reduction",
+            "content": "DR"
+          },
+          {
+            "type": "category-entry",
+            "title": "pattern",
+            "description": "Pattern Recognition & Classification",
+            "content": "PRC"
+          },
+          {
+            "type": "category-entry",
+            "title": "scaling",
+            "description": "Scaling & Projection",
+            "content": "SP"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "title": "interactive exploration",
+        "description": "IEA",
+        "childrenDescription": "Interactive Exploration & Analysis: ",
+        "entries": [
+          {
+            "type": "category-entry",
+            "title": "navigation",
+            "description": "Navigation",
+            "content": "N"
+          },
+          {
+            "type": "category-entry",
+            "title": "filter",
+            "description": "Filter",
+            "content": "F"
+          },
+          {
+            "type": "category-entry",
+            "title": "reconfigure",
+            "description": "Reconfigure",
+            "content": "R"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "category",
+    "title": "Optimization model",
+    "description": "Optimization model",
+    "childrenDescription": "Optimization model:",
+    "entries": [
+      {
+        "type": "category-entry",
+        "title": "unconstrained",
+        "description": "Unconstrained Programming",
+        "content": "UP"
+      },
+      {
+        "type": "category-entry",
+        "title": "linear",
+        "description": "Linear Programming",
+        "content": "LP"
+      },
+      {
+        "type": "category-entry",
+        "title": "quadratic",
+        "description": "Quadratic Programming",
+        "content": "QP"
+      },
+      {
+        "type": "category-entry",
+        "title": "nonlinear",
+        "description": "Nonlinear Programming",
+        "content": "NP"
+      },
+      {
+        "type": "category-entry",
+        "title": "multi-object",
+        "description": "Multi-Object Programming",
+        "content": "MOP"
+      },
+      {
+        "type": "category-entry",
+        "title": "other1",
+        "description": "Other",
+        "content": "O"
+      }
+    ]
+  },
+  {
+    "type": "category",
+    "title": "Solution method",
+    "description": "Solution method",
+    "entries": [
+      {
+        "type": "category",
+        "title": "data structure",
+        "description": "DSA",
+        "childrenDescription": "Data Structure and Algorithm: ",
+        "entries": [
+          {
+            "type": "category-entry",
+            "title": "grid search",
+            "description": "Grid Search",
+            "content": "GS"
+          },
+          {
+            "type": "category-entry",
+            "title": "divide",
+            "description": "Divide and Conquer",
+            "content": "DC"
+          },
+          {
+            "type": "category-entry",
+            "title": "graph theory algorithms",
+            "description": "Graph Theory Algorithms",
+            "content": "GTA"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "title": "heuristic algorithm",
+        "description": "HA",
+        "childrenDescription": "Heuristic Algorithm: ",
+        "entries": [
+          {
+            "type": "category-entry",
+            "title": "intelligent optimization",
+            "description": "Intelligent Optimization Algorithms",
+            "content": "IOA"
+          },
+          {
+            "type": "category-entry",
+            "title": "simple heuristic",
+            "description": "Simplex Method",
+            "content": "SHA"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "title": "line search",
+        "description": "LSM",
+        "childrenDescription": "Line Search Method: ",
+        "entries": [
+          {
+            "type": "category-entry",
+            "title": "active set method",
+            "description": "Active Set Method",
+            "content": "ASM"
+          },
+          {
+            "type": "category-entry",
+            "title": "first order",
+            "description": "First order Gradient-based Optimization Method",
+            "content": "FGOM"
+          },
+          {
+            "type": "category-entry",
+            "title": "optimization",
+            "description": "Optimization Method without Derivative",
+            "content": "OMD"
+          },
+          {
+            "type": "category-entry",
+            "title": "second order",
+            "description": "Second order Gradient-based Optimization Method",
+            "content": "SGOM"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "title": "programming method",
+        "description": "PM",
+        "childrenDescription": "Programming Method: ",
+        "entries": [
+          {
+            "type": "category-entry",
+            "title": "dynamic programming",
+            "description": "Dynamic Programming",
+            "content": "DP"
+          },
+          {
+            "type": "category-entry",
+            "title": "hungary algorithm",
+            "description": "Hungary Algorithm",
+            "content": "HA"
+          },
+          {
+            "type": "category-entry",
+            "title": "simplex method",
+            "description": "Simplex Method",
+            "content": "SM"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "title": "solver",
+        "description": "S",
+        "childrenDescription": "Solver",
+        "entries": [
+          {
+            "type": "category-entry",
+            "title": "solver1",
+            "description": "Solver",
+            "content": "S"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "title": "other method",
+        "description": "OM",
+        "childrenDescription": "Other Method: ",
+        "entries": [
+          {
+            "type": "category-entry",
+            "title": "two",
+            "description": "Two-Stage Method",
+            "content": "TSM"
+          },
+          {
+            "type": "category-entry",
+            "title": "analytical method",
+            "description": "Analytical Method",
+            "content": "AM"
+          },
+          {
+            "type": "category-entry",
+            "title": "approximation",
+            "description": "Approximation Algorithm",
+            "content": "AA"
+          },
+          {
+            "type": "category-entry",
+            "title": "numerical",
+            "description": "Numerical Algebra Method",
+            "content": "NAM"
+          },
+          {
+            "type": "category-entry",
+            "title": "other",
+            "description": "Other",
+            "content": "O"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "category",
+    "title": "Challenge",
+    "description": "Challenge",
+    "childrenDescription": "Challenge: ",
+    "entries": [
+      {
+        "type": "category-entry",
+        "title": "application",
+        "description": "Application",
+        "content": "A"
+      },
+      {
+        "type": "category-entry",
+        "title": "evaluation",
+        "description": "Evaluation",
+        "content": "E"
+      },
+      {
+        "type": "category-entry",
+        "title": "model generalization",
+        "description": "Model generalization",
+        "content": "MG"
+      },
+      {
+        "type": "category-entry",
+        "title": "model scalability",
+        "description": "Model scalability",
+        "content": "MS"
+      },
+      {
+        "type": "category-entry",
+        "title": "theory research",
+        "description": "Theory research",
+        "content": "TR"
+      },
+      {
+        "type": "category-entry",
+        "title": "visual interaction",
+        "description": "Visual interaction",
+        "content": "VI"
+      }
+    ]
+  }
+]

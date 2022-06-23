@@ -1,0 +1,810 @@
+[
+    {
+      "id": "chen2019designing",
+      "url": "https://ieeexplore.ieee.org/abstract/document/8781568",
+      "title": "Designing Narrative Slideshows for Learning Analytics",
+      "venue": "PacificVis",
+      "year": 2019,
+      "categories": ["temporal visualization","geographic visualization","chart visualization","selection","filtering","instructor","administrator","exploration","behaviour","assisted","high-dimensional","spatio-temporal","multimedia"]
+    },
+    {
+      "id": "ilves2018supporting",
+      "url": "https://doi.org/10.1145/3159450.3159509",
+      "title": "Supporting Self-Regulated Learning with visualizations in Online Learning Environments",
+      "venue": "",
+      "year": 2018,
+      "categories": ["text visualization","chart visualization","selection","assisted","high-dimensional","spatio-temporal","multimedia"]
+    },
+    {
+      "id": "hasnine2021students",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1877050921018548",
+      "title": "Students’ emotion extraction and visualization for engagement detection in online learning",
+      "venue": "",
+      "year": 2021,
+      "categories": ["temporal visualization","chart visualization","instructor","exploration","behaviour","high-dimensional","spatio-temporal","multimedia"]
+    },
+    {
+      "id": "doko2018sequential",
+      "url": "https://d1wqtxts1xzle7.cloudfront.net/60478737/REVISTA_2018_iJIM_vol12_no4_2018_I20190903-18651-13nidvl-with-cover-page-v2.pdf?Expires=1651570450&Signature=RtrvdK0t7WK993e6~Q-lVsSfaCW~pMYwt7RZumVEeRti0d7hU3Sl7xQssBXVJc6CM7n3hzpsT5J1qbLE1N65OykmWz0S3zYoumeRemDpWoqe6TtVF8rcSAKIMbitm1tpnSoTQHNNHwdIgSShcc5qFGqflXQTH1j8J0GJcjTfxJO2B5gpa60goUgN73SZlp6khl-sDIS4nymXobuPmaQIMdubXSx1HEyx9SjyILsJvA5kLt8BszSSvH94KqqX-WtQfWCPZwf6DenLs3RLcRxt0LwrME9x8pMyXS6DMtXyqX6ZNvxm681YjqLtj7rTt4zkhlHMxaWQTPHkfHBk5XprCQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA#page=109",
+      "title": "Sequential pattern mining model to identify the most important or difficult learning topics via mobile technologies",
+      "venue": "",
+      "year": 2018,
+      "categories": ["chart visualization","selection","filtering","instructor","behaviour","high-dimensional","spatio-temporal","multimedia"]
+    },
+    {
+      "id": "wang2016animated",
+      "url": "https://dl.acm.org/doi/10.1145/3002151.3002155",
+      "title": "Animated narrative visualization for video clickstream data",
+      "venue": "SA '16: SIGGRAPH ASIA 2016 Symposium on visualization",
+      "year": 2016,
+      "categories": ["temporal visualization","chart visualization","glyph visualization","selection","instructor","behaviour","high-dimensional","spatio-temporal","multimedia"]
+    },
+    {
+      "id": "he2019vuc",
+      "url": "https://doi.org/10.1145/3300115.3309514",
+      "title": "VUC:",
+      "venue": "the ACM Conference on Global Computing Education",
+      "year": 2019,
+      "categories": ["temporal visualization","chart visualization","selection","learner","behaviour","high-dimensional","spatio-temporal","multimedia"]
+    },
+    {
+      "id": "shi2015vismooc",
+      "url": "https://ieeexplore.ieee.org/abstract/document/7156373",
+      "title": "VisMOOC: Visualizing Video Clickstream Data from Massive Open Online Courses",
+      "venue": "pvis",
+      "year": 2015,
+      "categories": ["temporal visualization","geographic visualization","chart visualization","connection","selection","filtering","instructor","exploration","behaviour","spatio-temporal","multimedia"]
+    },
+    {
+      "id": "miyakita2019exploring",
+      "url": "https://ieeexplore.ieee.org/abstract/document/8939644",
+      "title": "Exploring digital cultural heritage beyond moocs: Design, use, and efficiency of generous interfaces",
+      "venue": "Learning With MOOCS (LWMOOCS)",
+      "year": 2019,
+      "categories": ["temporal visualization","chart visualization","connection","selection","filtering","learner","behaviour","spatio-temporal","multimedia"]
+    },
+    {
+      "id": "xia2018instructor",
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3159450.3159487",
+      "title": "instructor Perspectives on Comparative Heatmap visualizations of Student Engagement with Lecture Video",
+      "venue": "",
+      "year": 2018,
+      "categories": ["temporal visualization","geographic visualization","selection","filtering","instructor","administrator","behaviour","spatio-temporal","multimedia"]
+    },
+    {
+      "id": "bull2016introduction",
+      "url": "https://dl.acm.org/doi/abs/10.1145/2883851.2883853",
+      "title": "Introduction of learning\nvisualisations and metacognitive support in a\npersuadable open learner model",
+      "venue": "",
+      "year": 2016,
+      "categories": ["temporal visualization","network visualization","text visualization","chart visualization","glyph visualization","selection","learner","behaviour","assisted","network","high-dimensional","text","spatio-temporal"]
+    },
+    {
+      "id": "kuosa2016interactive",
+      "url": "https://digital.cic.gba.gob.ar/bitstream/handle/11746/8183/Interactive%20visualization%20Tools.pdf?sequence=1&isAllowed=y",
+      "title": "Interactive visualization Tools to Improve Learning and Teaching in Online Learning Environments",
+      "venue": "International Journal of Distance Education Technologies",
+      "year": 2016,
+      "categories": ["temporal visualization","network visualization","text visualization","chart visualization","connection","selection","filtering","instructor","behaviour","network","high-dimensional","text","spatio-temporal"]
+    },
+    {
+      "id": "el2018threadreconstructor",
+      "url": "https://doi.org/10.1111/cgf.13425",
+      "title": "ThreadReconstructor: modeling reply-chains to untangle conversational text through visual analytics",
+      "venue": "",
+      "year": 2018,
+      "categories": ["network visualization","text visualization","chart visualization","connection","selection","filtering","administrator","behaviour","network","high-dimensional","text","spatio-temporal"]
+    },
+    {
+      "id": "Xia2021QLens",
+      "url": "https://ieeexplore.ieee.org/abstract/document/9222360",
+      "title": "QLens: Visual Analytics of MUlti-step Problem-solving Behaviors for Improving Question Design",
+      "venue": "TVCG CCF-A",
+      "year": 2021,
+      "categories": ["temporal visualization","chart visualization","glyph visualization","connection","selection","filtering","encoding","instructor","administrator","exploration","behaviour","high-dimensional","text"]
+    },
+    {
+      "id": "He2018VUSphere",
+      "url": "https://ieeexplore.ieee.org/document/8802383",
+      "title": "VUSphere: Visual Analysis of Video Utilization in Online Distance Education",
+      "venue": "VAST",
+      "year": 2018,
+      "categories": ["geographic visualization","chart visualization","glyph visualization","connection","selection","administrator","exploration","behaviour","high-dimensional","text","spatio-temporal"]
+    },
+    {
+      "id": "vivian2015development",
+      "url": "https://ieeexplore.ieee.org/abstract/document/7202988",
+      "title": "The development of a dashboard tool for visualising online teamwork discussions",
+      "venue": "37th IEEE International Conference on Software Engineering",
+      "year": 2015,
+      "categories": ["temporal visualization","text visualization","chart visualization","connection","selection","instructor","administrator","exploration","behaviour","high-dimensional","text","spatio-temporal"]
+    },
+    {
+      "id": "Fu2017Visual",
+      "url": "https://ieeexplore.ieee.org/abstract/document/7534878/",
+      "title": "Visual Analysis of MOOC Forums with iForum",
+      "venue": "TVCG CCF-A",
+      "year": 2017,
+      "categories": ["temporal visualization","network visualization","text visualization","chart visualization","glyph visualization","connection","selection","instructor","administrator","behaviour","high-dimensional","text","spatio-temporal"]
+    },
+    {
+      "id": "Chen2016PeakVizor",
+      "url": "https://ieeexplore.ieee.org/abstract/document/7346501",
+      "title": "Peakvizor:Visual analytics of peaks in video clickstreams from massive open online courses. ",
+      "venue": "TVCG CCF-A",
+      "year": 2016,
+      "categories": ["geographic visualization","text visualization","glyph visualization","connection","selection","filtering","instructor","administrator","behaviour","high-dimensional","text","spatio-temporal"]
+    },
+    {
+      "id": "Chen2016DropoutSeer",
+      "url": "https://ieeexplore.ieee.org/abstract/document/7883517",
+      "title": "DropoutSeer: Visualizing learning patterns in Massive Open Online Courses for dropout reasoning and prediction",
+      "venue": "VAST",
+      "year": 2016,
+      "categories": ["temporal visualization","text visualization","chart visualization","glyph visualization","selection","filtering","instructor","administrator","prediction","high-dimensional","text","spatio-temporal"]
+    },
+    {
+      "id": "tervakari2014usefulness",
+      "url": "https://ieeexplore.ieee.org/document/6826081",
+      "title": "Usefulness of information visualizations based on educational data",
+      "venue": "2014 IEEE Global Engineering Education Conference (EDUCON)",
+      "year": 2014,
+      "categories": ["temporal visualization","network visualization","chart visualization","connection","selection","filtering","instructor","exploration","behaviour","network","text","spatio-temporal"]
+    },
+    {
+      "id": "Wei2020Predicting",
+      "url": "https://dl.acm.org/doi/abs/10.1145/3375462.3375521",
+      "title": "Predicting Student Performance in Interactive Online Question Pools Using Mouse Interaction Features",
+      "venue": "LAK '20: Proceedings of the Tenth International Conference on Learning Analytics & Knowledge",
+      "year": 2020,
+      "categories": ["chart visualization","administrator","prediction","behaviour","text","spatio-temporal"]
+    },
+    {
+      "id": "Fu2018VisForum",
+      "url": "https://dl.acm.org/doi/abs/10.1145/3162075",
+      "title": "VisForum: A Visual Analysis System for Exploring User Groups in Online Forums",
+      "venue": "ACM Transactions on Interactive Intelligent Systems",
+      "year": 2018,
+      "categories": ["temporal visualization","text visualization","glyph visualization","connection","selection","filtering","administrator","behaviour","text","spatio-temporal"]
+    },
+    {
+      "id": "mu2019moocad",
+      "url": "https://diglib.eg.org/xmlui/bitstream/handle/10.2312/evs20191176/091-095.pdf?sequence=1",
+      "title": "MOOCad: Visual Analysis of Anomalous Learning Activities in Massive Open Online Courses",
+      "venue": "EuroVis Short Paper CCF-B",
+      "year": 2019,
+      "categories": ["text visualization","chart visualization","glyph visualization","connection","selection","instructor","prediction","exploration","text","spatio-temporal"]
+    },
+    {
+      "id": "jordao2016visualizing",
+      "url": "https://www.igi-global.com/article/visualizing-sequential-educational-datamining-patterns/147605",
+      "title": "Visualizing sequential educational datamining patterns",
+      "venue": "International Journal of Creative Interfaces and Computer Graphics",
+      "year": 2016,
+      "categories": ["temporal visualization","network visualization","glyph visualization","connection","selection","filtering","learner","instructor","prediction","assisted","network","high-dimensional","spatio-temporal"]
+    },
+    {
+      "id": "Wu2016networkSeer",
+      "url": "https://ieeexplore.ieee.org/abstract/document/7465269",
+      "title": "networkSeer: Visual Analysis for Social network in MOOCs",
+      "venue": "PVIS",
+      "year": 2016,
+      "categories": ["temporal visualization","network visualization","chart visualization","selection","filtering","administrator","behaviour","network","high-dimensional","spatio-temporal"]
+    },
+    {
+      "id": "wortman2007visualizing",
+      "url": "https://doi.org/10.1145/1227310.1227458",
+      "title": "Visualizing trends in student performance across computer science courses",
+      "venue": "",
+      "year": 2007,
+      "categories": ["temporal visualization","network visualization","selection","filtering","instructor","prediction","exploration","network","high-dimensional","spatio-temporal"]
+    },
+    {
+      "id": "xiao2018intelligent",
+      "url": "https://doi.org/10.1145/3180308.3180370",
+      "title": "An Intelligent Educational Platform for Training Spatial visualization Skills",
+      "venue": "",
+      "year": 2018,
+      "categories": ["chart visualization","learner","prediction","exploration","assisted","high-dimensional","spatio-temporal"]
+    },
+    {
+      "id": "xia2022rlens",
+      "url": "https://arxiv.org/abs/2204.08033",
+      "title": "RLens: A Computer-aided visualization System for Supporting Reflection on Language Learning under Distributed Tutorship",
+      "venue": "l@s",
+      "year": 2022,
+      "categories": ["temporal visualization","geographic visualization","chart visualization","selection","filtering","instructor","exploration","assisted","high-dimensional","spatio-temporal"]
+    },
+    {
+      "id": "martins2018visualizing",
+      "url": "https://www.igi-global.com/article/visualizing-historical-patterns-in-large-educational-datasets/210549",
+      "title": "Visualizing historical patterns in large educational datasets",
+      "venue": "",
+      "year": 0.0,
+      "categories": ["temporal visualization","chart visualization","connection","selection","filtering","instructor","prediction","assisted","high-dimensional","spatio-temporal"]
+    },
+    {
+      "id": "dernoncourt2013moocviz",
+      "url": "http://groups.csail.mit.edu/EVO-DesignOpt/groupWebSite/uploads/Site/LAK-MoocViz.pdf",
+      "title": "MoocViz: a large scale, open access, collaborative, data analytics platform for MOOCs",
+      "venue": "",
+      "year": 2013,
+      "categories": ["geographic visualization","chart visualization","administrator","assisted","high-dimensional","spatio-temporal"]
+    },
+    {
+      "id": "anderson2014engaging",
+      "url": "https://doi.org/10.1145/2566486.2568042",
+      "title": "Engaging with Massive Online Courses",
+      "venue": "",
+      "year": 2014,
+      "categories": ["temporal visualization","chart visualization","glyph visualization","learner","assisted","high-dimensional","spatio-temporal"]
+    },
+    {
+      "id": "mazza2007coursevis",
+      "url": "https://doi.org/10.1016/j.ijhcs.2006.08.008",
+      "title": "CourseVis: A graphical student monitoring tool for supporting instructors in web-based distance courses",
+      "venue": "",
+      "year": 0.0,
+      "categories": ["temporal visualization","chart visualization","connection","selection","filtering","instructor","exploration","behaviour","high-dimensional","spatio-temporal"]
+    },
+    {
+      "id": "gomez2015tap",
+      "url": "https://doi.org/10.1016/j.chb.2014.11.001",
+      "title": "Tap into visual analysis of customization of grouping of activities in eLearning",
+      "venue": "Computers in Human Behavior",
+      "year": 2015,
+      "categories": ["temporal visualization","chart visualization","glyph visualization","selection","filtering","learner","instructor","administrator","exploration","behaviour","high-dimensional","spatio-temporal"]
+    },
+    {
+      "id": "li2021visual",
+      "url": "https://dl.acm.org/doi/abs/10.1145/3411764.3445294",
+      "title": "A Visual Analytics Approach to Facilitate the Proctoring of Online Exams",
+      "venue": "CHI",
+      "year": 2021,
+      "categories": ["chart visualization","glyph visualization","connection","selection","filtering","instructor","administrator","exploration","behaviour","high-dimensional","spatio-temporal"]
+    },
+    {
+      "id": "mcgrath2011visualizing",
+      "url": "https://doi.org/10.1145/2070364.2070424",
+      "title": "Visualizing User Activity In Open E-Learning Contexts: Challenges and Techniques for Operational Management",
+      "venue": "",
+      "year": 2011,
+      "categories": ["temporal visualization","chart visualization","filtering","instructor","administrator","exploration","behaviour","high-dimensional","spatio-temporal"]
+    },
+    {
+      "id": "liu2014measuring",
+      "url": "https://ieeexplore.ieee.org/abstract/document/6979251",
+      "title": "Measuring and Visualizing Students‘ Behavioral Engagement in Writing Activities",
+      "venue": "",
+      "year": 2015,
+      "categories": ["temporal visualization","chart visualization","selection","learner","exploration","behaviour","high-dimensional","spatio-temporal"]
+    },
+    {
+      "id": "mazza2007monitoring",
+      "url": "https://www.learntechlib.org/p/22972/",
+      "title": "Monitoring an online course with the GISMO tool: a case study",
+      "venue": "",
+      "year": 2007,
+      "categories": ["chart visualization","selection","filtering","instructor","administrator","exploration","behaviour","high-dimensional","spatio-temporal"]
+    },
+    {
+      "id": "denny2013effect",
+      "url": "https://doi.org/10.1145/2470654.2470763",
+      "title": "The Effect of Virtual Achievements on Student Engagement",
+      "venue": "",
+      "year": 2013,
+      "categories": ["temporal visualization","chart visualization","glyph visualization","selection","instructor","exploration","behaviour","high-dimensional","spatio-temporal"]
+    },
+    {
+      "id": "xia2020using",
+      "url": "https://doi.org/10.1145/3386527.3405924",
+      "title": "Using Information visualization to Promote Students’ Reflection on “Gaming the System” in Online Learning",
+      "venue": "",
+      "year": 2020,
+      "categories": ["temporal visualization","chart visualization","learner","exploration","behaviour","high-dimensional","spatio-temporal"]
+    },
+    {
+      "id": "xiaohuan2013visual",
+      "url": "https://ieeexplore.ieee.org/abstract/document/6554098/",
+      "title": "Visual exploration for time series data using multivariate analysis method",
+      "venue": "",
+      "year": 0.0,
+      "categories": ["temporal visualization","chart visualization","selection","filtering","instructor","administrator","exploration","behaviour","high-dimensional","spatio-temporal"]
+    },
+    {
+      "id": "mubarak2021visual",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/cae.22328",
+      "title": "Visual analytics of video‐clickstream data and prediction of learners' performance using deep learning models in MOOCs' courses",
+      "venue": "Computer Applications in Engineering Education",
+      "year": 2021,
+      "categories": ["temporal visualization","network visualization","chart visualization","selection","filtering","encoding","instructor","administrator","prediction","behaviour","high-dimensional","spatio-temporal"]
+    },
+    {
+      "id": "petkovic2010work",
+      "url": "https://ieeexplore.ieee.org/abstract/document/5673130",
+      "title": "Work in progress-e-TAT: Online tool for teamwork and “soft skills” assessment in software engineering education",
+      "venue": "",
+      "year": 0.0,
+      "categories": ["chart visualization","instructor","behaviour","high-dimensional","spatio-temporal"]
+    },
+    {
+      "id": "wong2015analysis",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-319-16268-3_58",
+      "title": "An Analysis of MOOC Discussion Forum Interactions from the Most Active Users\n",
+      "venue": "",
+      "year": 2015,
+      "categories": ["chart visualization","behaviour","high-dimensional","spatio-temporal"]
+    },
+    {
+      "id": "vidakis2019game",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-030-58459-7_30",
+      "title": "in-Game Raw Data Collection and visualization in the Context of the “ThimelEdu” Educational Game",
+      "venue": "",
+      "year": 2019,
+      "categories": ["chart visualization","selection","filtering","instructor","behaviour","high-dimensional","spatio-temporal"]
+    },
+    {
+      "id": "da2007learning",
+      "url": "https://ieeexplore.ieee.org/abstract/document/4281088",
+      "title": "Learning Management Systems’ database exploration by means of Information visualization-based query tools",
+      "venue": "Seventh IEEE International Conference on Advanced Learning Technologies (ICALT 2007)",
+      "year": 2007,
+      "categories": ["chart visualization","selection","filtering","instructor","behaviour","high-dimensional","spatio-temporal"]
+    },
+    {
+      "id": "gibbs2006visualization",
+      "url": "https://www.jstor.org/stable/jeductechsoci.9.3.232",
+      "title": "A visualization tool for managing and studying online communications",
+      "venue": "Educational Technology & Society",
+      "year": 2006,
+      "categories": ["temporal visualization","selection","instructor","administrator","behaviour","high-dimensional","spatio-temporal"]
+    },
+    {
+      "id": "suntiwichaya2018improving",
+      "url": "https://ieeexplore.ieee.org/abstract/document/8619976",
+      "title": "Improving Data Analytics visualization with Advancing Information for MOOCs : A Case Study on ThaiMOOC Platform\n",
+      "venue": "2018 15th International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI-CON)",
+      "year": 2018,
+      "categories": ["geographic visualization","chart visualization","selection","filtering","instructor","behaviour","high-dimensional","spatio-temporal"]
+    },
+    {
+      "id": "xu2021prediction",
+      "url": "https://doi.org/10.1145/3474995.3475017",
+      "title": "Prediction and visualization of Academic Procrastination in Online Learning",
+      "venue": "",
+      "year": 2021,
+      "categories": ["chart visualization","learner","instructor","prediction","exploration","high-dimensional","spatio-temporal"]
+    },
+    {
+      "id": "zou2020using",
+      "url": "https://link.springer.com/chapter/10.1007/978-981-15-8083-3_16",
+      "title": "Using Process visualization and Early Warning Based on Learning Analytics to Enhance Teaching and Learning\n",
+      "venue": "",
+      "year": 2020,
+      "categories": ["chart visualization","instructor","prediction","exploration","high-dimensional","spatio-temporal"]
+    },
+    {
+      "id": "tsung2022blocklens",
+      "url": "https://haotian-li.com/paper/blocklens.pdf",
+      "title": "BlockLens: Visual Analytics of Student Coding Behaviors in Block-Based Programming Environments",
+      "venue": "l@s",
+      "year": 2022,
+      "categories": ["temporal visualization","chart visualization","connection","selection","encoding","prediction","exploration","high-dimensional","spatio-temporal"]
+    },
+    {
+      "id": "Chen2020ViSeq",
+      "url": "https://ieeexplore.ieee.org/abstract/document/8477163",
+      "title": "Viseq: Visual Analytics of Learning Sequence in Massive Open Online Courses",
+      "venue": "TVCG CCF-A",
+      "year": 2020,
+      "categories": ["temporal visualization","chart visualization","connection","selection","filtering","encoding","learner","instructor","exploration","high-dimensional","spatio-temporal"]
+    },
+    {
+      "id": "xia2020seqdynamics",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13998",
+      "title": "SeqDynamics: Visual Analytics for Evaluating Online Problem-solving Dynamics\n",
+      "venue": "EuroVis CCF-B",
+      "year": 2020,
+      "categories": ["temporal visualization","chart visualization","glyph visualization","selection","filtering","instructor","administrator","exploration","high-dimensional","spatio-temporal"]
+    },
+    {
+      "id": "xia2019visual",
+      "url": "https://arxiv.org/abs/1909.04749",
+      "title": "Visual Analytics of Student Learning Behaviors on K-12 Mathematics E-learning Platforms",
+      "venue": "2019 VAST conference",
+      "year": 2019,
+      "categories": ["temporal visualization","chart visualization","glyph visualization","connection","selection","instructor","exploration","high-dimensional","spatio-temporal"]
+    },
+    {
+      "id": "he2019vuc",
+      "url": "https://ieeexplore.ieee.org/abstract/document/8933778",
+      "title": "Visual Analysis of the Time Management of Learning Multiple Courses in Online Learning Environment",
+      "venue": "vis",
+      "year": 2019,
+      "categories": ["temporal visualization","geographic visualization","chart visualization","selection","instructor","administrator","exploration","high-dimensional","spatio-temporal"]
+    },
+    {
+      "id": "ruiz2016supporting",
+      "url": "https://doi.org/10.1145/2883851.2883888",
+      "title": "Supporting learning by considering emotions: Tracking and visualization. A case study",
+      "venue": "LAK",
+      "year": 2016,
+      "categories": ["temporal visualization","chart visualization","glyph visualization","instructor","exploration","high-dimensional","spatio-temporal"]
+    },
+    {
+      "id": "li2015visual",
+      "url": "https://ieeexplore.ieee.org/abstract/document/7284924",
+      "title": "A Visual Analytics Approach for E-learning Education\n",
+      "venue": "2015 9th International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing",
+      "year": 2015,
+      "categories": ["chart visualization","glyph visualization","filtering","instructor","exploration","high-dimensional","spatio-temporal"]
+    },
+    {
+      "id": "weiand2015towards",
+      "url": "https://repositorio.pucrs.br/dspace/bitstream/10923/13823/2/Towards_visual_analysis_techniques_for_monitoring_students_of_distance_education_courses.pdf",
+      "title": "Towards visual analysis techniques for monitoring students of distance education courses",
+      "venue": "",
+      "year": 2015,
+      "categories": ["temporal visualization","chart visualization","connection","selection","filtering","instructor","prediction","high-dimensional","spatio-temporal"]
+    },
+    {
+      "id": "xia2020using",
+      "url": "https://dl.acm.org/doi/abs/10.1145/3386527.3405924",
+      "title": "Using Information visualization to Promote Students' Reflection on 'Gaming the System' in Online Learning\n",
+      "venue": "L@S '20: Proceedings of the Seventh ACM Conference on Learning",
+      "year": 2020,
+      "categories": ["chart visualization","administrator","exploration","behaviour","spatio-temporal"]
+    },
+    {
+      "id": "hardless1999visualizing",
+      "url": "https://dl.acm.org/doi/abs/10.1145/632716.632906",
+      "title": "Visualizing learning activities to support tutors",
+      "venue": "chi",
+      "year": 1999,
+      "categories": ["temporal visualization","instructor","behaviour","spatio-temporal"]
+    },
+    {
+      "id": "oliveira2010visualisation",
+      "url": "https://ieeexplore.ieee.org/abstract/document/5571285",
+      "title": "Visualisation of web based e-Learning activity",
+      "venue": "2010 14th International Conference Information Visualisation",
+      "year": 2010,
+      "categories": ["glyph visualization","selection","filtering","instructor","administrator","behaviour","spatio-temporal"]
+    },
+    {
+      "id": "Xia2019PeerLens",
+      "url": "https://dl.acm.org/doi/abs/10.1145/3290605.3300864",
+      "title": "PeerLens: Peer-inspired Interactive Learning Path Planning in Online Question Pool",
+      "venue": "CHI CCF-A",
+      "year": 2019,
+      "categories": ["chart visualization","glyph visualization","selection","encoding","administrator","exploration","spatio-temporal"]
+    },
+    {
+      "id": "williams2007visualizing",
+      "url": "https://ieeexplore.ieee.org/abstract/document/4281180",
+      "title": "Visualizing narrative structures and learning style information in personalized e-learning systems",
+      "venue": "Advanced Learning Technologies",
+      "year": 2007,
+      "categories": ["temporal visualization","chart visualization","glyph visualization","selection","filtering","learner","exploration","spatio-temporal"]
+    },
+    {
+      "id": "Li2020Peer-Inspired",
+      "url": "https://dl.acm.org/doi/abs/10.1145/3340531.3412733",
+      "title": "Peer-inspired Student Performance Prediction in Interactive Online Question Pools with Graph Neural network",
+      "venue": "CIKM '20: Proceedings of the 29th ACM International Conference on Information & Knowledge Management",
+      "year": 2020,
+      "categories": ["chart visualization","instructor","administrator","prediction","spatio-temporal"]
+    },
+    {
+      "id": "zhang2008research",
+      "url": "https://ieeexplore.ieee.org/abstract/document/4725976",
+      "title": "The research on Ontology-based Knowledge visualization in E-Learning Resources Management",
+      "venue": "2008 Fourth International Conference on Semantics, Knowledge and Grid",
+      "year": 2008,
+      "categories": ["network visualization","learner","assisted","text","multimedia"]
+    },
+    {
+      "id": "nakayama2012visualization",
+      "url": "https://ieeexplore.ieee.org/abstract/document/6295850",
+      "title": "visualization Analysis of Student’s Notes Taken in a Fully Online Learning Environment",
+      "venue": "International Conference on Information Visualisation",
+      "year": 2012,
+      "categories": ["chart visualization","instructor","exploration","behaviour","text","multimedia"]
+    },
+    {
+      "id": "Zhao2018Flexible",
+      "url": "https://dl.acm.org/doi/abs/10.1145/3173574.3173903",
+      "title": "Flexible Learning with Semantic Visual Exploration and Sequence-Based Recommendation of MOOC Videos",
+      "venue": "CHI CCF-A",
+      "year": 2018,
+      "categories": ["temporal visualization","network visualization","text visualization","chart visualization","connection","selection","encoding","learner","behaviour","text","multimedia"]
+    },
+    {
+      "id": "coffrin2014visualizing",
+      "url": "https://doi.org/10.1145/2567574.2567586",
+      "title": "Visualizing patterns of student engagement and performance in MOOCs",
+      "venue": "",
+      "year": 2014,
+      "categories": ["network visualization","chart visualization","instructor","exploration","behaviour","network","high-dimensional","multimedia"]
+    },
+    {
+      "id": "munoz2015precise",
+      "url": "https://doi.org/10.1016/j.chb.2014.10.003",
+      "title": "Precise Effectiveness Strategy for analyzing the effectiveness of students with educational resources and activities in MOOCs",
+      "venue": "Computers in Human Behavior",
+      "year": 2015,
+      "categories": ["chart visualization","instructor","behaviour","high-dimensional","multimedia"]
+    },
+    {
+      "id": "minematsu2020visualization",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-030-50344-4_42",
+      "title": "visualization and Analysis for Supporting Teachers Using Clickstream Data and Eye Movement Data\n",
+      "venue": "",
+      "year": 2020,
+      "categories": ["chart visualization","glyph visualization","instructor","behaviour","high-dimensional","multimedia"]
+    },
+    {
+      "id": "kim2022mobile",
+      "url": "https://kixlab.github.io/website-files/2022/chi2022-mMOOC-paper.pdf",
+      "title": "Mobile-Friendly Content Design for MOOCs: Challenges, Requirements, and Design Opportunities",
+      "venue": "chi（best paper）",
+      "year": 2022,
+      "categories": ["chart visualization","learner","instructor","assisted","multimedia"]
+    },
+    {
+      "id": "wong2018messagelens",
+      "url": "https://doi.org/10.1016/j.visinf.2018.04.005",
+      "title": "MessageLens:A Visual Analytics System to Support Multifaceted Exploration of MOOC Forum Discussions",
+      "venue": "",
+      "year": 2018,
+      "categories": ["network visualization","text visualization","chart visualization","connection","selection","filtering","instructor","exploration","behaviour","network","high-dimensional","text"]
+    },
+    {
+      "id": "Schwab2017booc",
+      "url": "https://ieeexplore.ieee.org/abstract/document/7536150",
+      "title": "booc.io: An Education System with Hierarchical Concept Maps and Dynamic Non-linear Learning Plans",
+      "venue": "TVCG CCF-A",
+      "year": 2017,
+      "categories": ["network visualization","glyph visualization","connection","selection","encoding","learner","behaviour","high-dimensional","text"]
+    },
+    {
+      "id": "buder2015selective",
+      "url": "https://doi.org/10.1016/j.chb.2014.11.043",
+      "title": "Selective reading of large online forum discussions: The impact of rating visualizations on navigation and learning",
+      "venue": "",
+      "year": 2015,
+      "categories": ["chart visualization","connection","selection","filtering","learner","behaviour","high-dimensional","text"]
+    },
+    {
+      "id": "atapattu2016topic",
+      "url": "https://eric.ed.gov/?id=ED592727",
+      "title": "Topic-Wise Classification of MOOC Discussions: A Visual Analytics Approach",
+      "venue": "International Educational Data Mining Society",
+      "year": 2016,
+      "categories": ["text visualization","glyph visualization","filtering","encoding","instructor","behaviour","high-dimensional","text"]
+    },
+    {
+      "id": "wong2016academic",
+      "url": "https://ieeexplore.ieee.org/abstract/document/7552094",
+      "title": "Academic performance prediction using chance discovery from online discussion forums",
+      "venue": "Annual Computer Software and Applications Conference",
+      "year": 2016,
+      "categories": ["network visualization","chart visualization","instructor","prediction","behaviour","network","text"]
+    },
+    {
+      "id": "rabbany2014collaborative",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-319-02738-8_16",
+      "title": "Collaborative learning of students in online discussion forums: A social network analysis perspective",
+      "venue": " Educational Data Mining",
+      "year": 2014,
+      "categories": ["network visualization","text visualization","connection","selection","filtering","instructor","administrator","behaviour","network","text"]
+    },
+    {
+      "id": "hsu2017misconceptions",
+      "url": "https://ieeexplore.ieee.org/abstract/document/8078712",
+      "title": "Misconceptions Mining and visualizations for Chinese-Based MOOCs Forum Based on NLP",
+      "venue": "2017 IEEE 2nd International Conference on Big Data Analysis (ICBDA)",
+      "year": 2017,
+      "categories": ["network visualization","text visualization","chart visualization","instructor","behaviour","network","text"]
+    },
+    {
+      "id": "tubman2019new",
+      "url": "https://ieeexplore.ieee.org/abstract/document/8820907",
+      "title": "New platform affordances for encouraging social interaction in MOOCs\n",
+      "venue": "",
+      "year": 2019,
+      "categories": ["text visualization","selection","filtering","encoding","instructor","administrator","assisted","text"]
+    },
+    {
+      "id": "venkatarayalu2018interactive",
+      "url": "https://ieeexplore.ieee.org/abstract/document/8615266",
+      "title": "Interactive visualization-Based E-learning Aids for Vector Calculus",
+      "venue": "2018 IEEE International Conference on Teaching, Assessment, and Learning for Engineering (TALE)",
+      "year": 2018,
+      "categories": ["chart visualization","selection","encoding","learner","assisted","text"]
+    },
+    {
+      "id": "schubert2018measuring",
+      "url": "http://ceur-ws.org/Vol-2141/paper6.pdf",
+      "title": "Measuring learner tone and sentiment at scale via text analysis of forum posts",
+      "venue": "",
+      "year": 2018,
+      "categories": ["chart visualization","selection","learner","instructor","exploration","behaviour","text"]
+    },
+    {
+      "id": "zarra2018student",
+      "url": "https://doi.org/10.1145/3230905.3230920",
+      "title": "Student Interactions in Online Discussion Forums: Visual Analysis with LDA Topic Models",
+      "venue": "International Conference on Learning and Optimization Algorithms: Theory and Applications",
+      "year": 2018,
+      "categories": ["text visualization","chart visualization","filtering","instructor","behaviour","text"]
+    },
+    {
+      "id": "onan2021weighted",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/cae.22252",
+      "title": "Weighted word embeddings and clustering‐based identification of question topics in MOOC discussion forum posts",
+      "venue": "",
+      "year": 2021,
+      "categories": ["text"]
+    },
+    {
+      "id": "xia2022persua",
+      "url": "https://arxiv.org/abs/2204.07741",
+      "title": "Persua: A Visual Interactive System to Enhance the Persuasiveness of Arguments in Online Discussion",
+      "venue": "cscw",
+      "year": 2022,
+      "categories": ["text visualization","chart visualization","glyph visualization","text"]
+    },
+    {
+      "id": "xiaoya2009visual",
+      "url": "https://ieeexplore.ieee.org/abstract/document/5228253",
+      "title": "Visual analysis of college students’ scores in English test",
+      "venue": "",
+      "year": 2009,
+      "categories": ["chart visualization","selection","instructor","administrator","exploration","assisted","high-dimensional"]
+    },
+    {
+      "id": "auvinen2015increasing",
+      "url": "https://ieeexplore.ieee.org/abstract/document/7118184",
+      "title": "Increasing Students’ Awareness of Their Behavior in Online Learning Environments with visualizations and Achievement Badges",
+      "venue": "",
+      "year": 2015,
+      "categories": ["geographic visualization","chart visualization","selection","learner","instructor","prediction","assisted","high-dimensional"]
+    },
+    {
+      "id": "karavirta2015creating",
+      "url": "https://ieeexplore.ieee.org/abstract/document/7298430",
+      "title": "Creating Engaging Online Learning Material with the JSAV JavaScript Algorithm visualization Library",
+      "venue": "IEEE Transactions on Learning Technologies",
+      "year": 2015,
+      "categories": ["network visualization","chart visualization","selection","encoding","learner","instructor","assisted","high-dimensional"]
+    },
+    {
+      "id": "singhmooclens",
+      "url": "https://www.researchgate.net/publication/331074922_MOOClens_A_Peek_into_MOOCs_for_Picking_MOOCs",
+      "title": "MOOClens: A Peek into MOOCs for Picking MOOCs",
+      "venue": "",
+      "year": 2014,
+      "categories": ["chart visualization","glyph visualization","selection","learner","assisted","high-dimensional"]
+    },
+    {
+      "id": "nickels2013presentaball",
+      "url": "https://ieeexplore.ieee.org/abstract/document/6664344",
+      "title": "PresentaBALL – a Powerful Package for Presentations and Lessons in Structural Biology",
+      "venue": "Biovis",
+      "year": 2013,
+      "categories": ["glyph visualization","selection","filtering","learner","assisted","high-dimensional"]
+    },
+    {
+      "id": "matin2018implementation",
+      "url": "https://doi.org/10.1145/3291078.3291104",
+      "title": "Implementation of a Customizable Algorithm visualization Tool for E-Learning",
+      "venue": "",
+      "year": 2018,
+      "categories": ["chart visualization","glyph visualization","selection","learner","assisted","high-dimensional"]
+    },
+    {
+      "id": "paiva2018visualizing",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-319-93846-2_46",
+      "title": "Visualizing learning analytics and educational data mining outputs",
+      "venue": "",
+      "year": 0.0,
+      "categories": ["chart visualization","glyph visualization","instructor","assisted","high-dimensional"]
+    },
+    {
+      "id": "gonccalves2017development",
+      "url": "http://www.ecomp.poli.br/amam/wp-content/uploads/2019/11/2017_Development-of-a-Data-Mining-Education-Framework-for-visualization-of-Data-in-Distance-Learning-Environments.pdf",
+      "title": "Development of a data mining education framework for data visualization in distance learning environments",
+      "venue": "",
+      "year": 2017,
+      "categories": ["chart visualization","selection","instructor","administrator","assisted","high-dimensional"]
+    },
+    {
+      "id": "gama2014visualizing",
+      "url": "https://ieeexplore.ieee.org/abstract/document/6902888",
+      "title": "Visualizing large quantities of educational datamining information",
+      "venue": "18th International Conference on Information Visualisation",
+      "year": 2014,
+      "categories": ["glyph visualization","connection","selection","instructor","administrator","assisted","high-dimensional"]
+    },
+    {
+      "id": "stephens2014monitoring",
+      "url": "https://dl.acm.org/doi/abs/10.1145/2556325.2566246",
+      "title": "Monitoring MOOCs: which information sources do instructors value?",
+      "venue": " ACM Conference on Learning, Atlanta",
+      "year": 2014,
+      "categories": ["chart visualization","instructor","assisted"]
+    },
+    {
+      "id": "romanowska2018towards",
+      "url": "https://ieeexplore.ieee.org/abstract/document/8560314",
+      "title": "Towards Developing an Effective Algorithm visualization Tool for Online Learning",
+      "venue": "",
+      "year": 2018,
+      "categories": ["chart visualization","connection","selection","filtering","encoding","learner","assisted","high-dimensional"]
+    },
+    {
+      "id": "citra2021exploring",
+      "url": "https://ieeexplore.ieee.org/abstract/document/9604012",
+      "title": "Exploring Demographic Variations of Freshmen to Online Learning Anxiety: A Data visualization Analysis Based Approach",
+      "venue": "2021 International Research Symposium On Advanced Engineering And Vocational Education (IRSAEVE)",
+      "year": 2021,
+      "categories": ["chart visualization","assisted","high-dimensional"]
+    },
+    {
+      "id": "misailidis2018visualization",
+      "url": "https://doi.org/10.1145/3291533.3291568",
+      "title": "visualization of educational data mined from the moodle e-learning platform",
+      "venue": "",
+      "year": 2018,
+      "categories": ["chart visualization","selection","instructor","administrator","behaviour","high-dimensional"]
+    },
+    {
+      "id": "mazza2003coursevis",
+      "url": "https://www.researchgate.net/profile/Vania-Dimitrova/publication/228761389_CourseVis_Externalising_student_information_to_facilitate_instructors_in_distance_learning/links/00b4952cdc93aec971000000/CourseVis-Externalising-student-information-to-facilitate-instructors-in-distance-learning.pdf",
+      "title": "Coursevis: Externalising student information to facilitate instructors in distance learning",
+      "venue": "Proceedings of the International conference in Artificial Intelligence in Education",
+      "year": 2003,
+      "categories": ["chart visualization","selection","filtering","instructor","behaviour","high-dimensional"]
+    },
+    {
+      "id": "kwon2016comparative",
+      "url": "https://dl.acm.org/doi/abs/10.1145/2858036.2858101?casa_token=FOqKXCdQkLQAAAAA:Xq0M7XUexzaPBEMIAyYS0Fl2tUlNNBIasBKdT4kOVZ_f0QxRwF0S69kT55da6byRflvU3alfvuEuJg",
+      "title": "A comparative evaluation on online learning\napproaches using parallel coordinate visualization",
+      "venue": "CHI",
+      "year": 2016,
+      "categories": ["chart visualization","connection","selection","filtering","encoding","administrator","exploration","high-dimensional"]
+    },
+    {
+      "id": "cui2021big",
+      "url": "https://doi.org/10.1016/j.compeleceng.2021.107544",
+      "title": "Big data visualization using multimodal feedback in education",
+      "venue": "Computers and Electrical Engineering",
+      "year": 2021,
+      "categories": ["chart visualization","learner","instructor","exploration","high-dimensional"]
+    },
+    {
+      "id": "uskov2020data",
+      "url": "https://link.springer.com/chapter/10.1007/978-981-15-5584-8_16",
+      "title": "Data Cleaning and Data visualization Systems for Learning Analytics",
+      "venue": "",
+      "year": 2020,
+      "categories": ["chart visualization","instructor","exploration","high-dimensional"]
+    },
+    {
+      "id": "trimm2012visualizing",
+      "url": "https://ieeexplore.ieee.org/abstract/document/6327287",
+      "title": "Visualizing student histories using clustering and composition",
+      "venue": "tvcg",
+      "year": 2012,
+      "categories": ["temporal visualization","chart visualization","selection","instructor","exploration","high-dimensional"]
+    },
+    {
+      "id": "topirceanu2017decision",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1877050917313601",
+      "title": "Decision tree learning used for the classification of student archetypes in online courses",
+      "venue": "",
+      "year": 2017,
+      "categories": ["network visualization","high-dimensional"]
+    }
+  ]
